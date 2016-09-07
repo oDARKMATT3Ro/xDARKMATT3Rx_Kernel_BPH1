@@ -22,7 +22,7 @@
 #include <linux/err.h>
 #include <linux/init.h>
 #include <linux/i2c.h>
-#include <linux/i2c/i2c.qup.h>
+#include <linux/i2c/i2c-qup.h>
 #include <linux/interrupt.h>
 #include <linux/platform_device.h>
 #include <linux/delay.h>
